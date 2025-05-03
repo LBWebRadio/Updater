@@ -1,0 +1,4 @@
+   • Fixed bug with playback stopping unexpectedly
+   • Added support for more radio station formats
+   • Improved UI responsiveness
+   • Updated database performance
