@@ -1,4 +1,3 @@
-   • Fixed bug with playback stopping unexpectedly
-   • Added support for more radio station formats
-   • Improved UI responsiveness
-   • Updated database performance
+   • Implemented an update checker with automatic version detection
+   • Fixed several bugs in the radio browser for improved stability
+   • Fixed an issue where play time wasn't correctly transferred to non-favorites when deleting a favorite station
