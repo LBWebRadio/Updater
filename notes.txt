@@ -1,6 +1,3 @@
-• The "Data Usage" label is now always visible while editing themes, so it can be styled.
-• On first run, if you enable statistics tracking the app will restart automatically to ensure the database is fully initialized.
-• Websites panel is removed along with all code related to it. The radio browser has rendered it obsolete.
-• Default volume is set to 25 instead of 75.
-• "Data usage" is hidden by default but can be enabled/disabled from settings as usual.
+• Small update to let the installer uninstall the previous version for you.
+• Simply download and exit the player and then start the installer.
 
