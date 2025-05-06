@@ -1,3 +1,7 @@
-• Small update to let the installer uninstall the previous version for you.
-• Simply download and exit the player and then start the installer.
+
+• Added LB icons to the update dialogues.
+• Added blinking animations for new metadata the first 18 seconds in the station monitor.
+• Fixed memory leaks in song metadata timers that could accumulate during long sessions.
+• Implemented thread safety for multi-station metadata monitoring to prevent rare crashes.
+• Enhanced UI thread handling for metadata updates to ensure smoother visual transitions.
 
