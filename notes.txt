@@ -1,7 +1,6 @@
 
-• Added LB icons to the update dialogues.
-• Added blinking animations for new metadata the first 18 seconds in the station monitor.
-• Fixed memory leaks in song metadata timers that could accumulate during long sessions.
-• Implemented thread safety for multi-station metadata monitoring to prevent rare crashes.
-• Enhanced UI thread handling for metadata updates to ensure smoother visual transitions.
+• Closing the metadata monitor will now also clear previous metadata history.
+• Added a button in About to show attribution for third party software.
+• Updated the LB manual to Version 0.4.3.3.
+
 
