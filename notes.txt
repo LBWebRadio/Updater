@@ -1,8 +1,6 @@
 
-• Closing the metadata monitor will now also clear previous metadata history.
-• Added a button in About to show attribution for third party software.
-• Updated the LB manual to Version 0.4.3.3.
-• Updates to attribution for 0.4.3.4
-• User agent is now set to "Live Beats WebRadio Player"
+• Live Beats web app released
+• Removed unused packages and cleaned redundant code 
+• Added web app launch button in About section 
 
 
