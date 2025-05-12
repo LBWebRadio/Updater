@@ -1,6 +1,6 @@
 
-• Live Beats web app released
-• Removed unused packages and cleaned redundant code 
-• Added web app launch button in About section 
+• Added a counter for how many stations are currently being monitored
+• Added a theme selector with 20 color schemes for the database view 
+• Minor UI corrections 
 
 
