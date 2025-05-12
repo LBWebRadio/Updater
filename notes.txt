@@ -1,6 +1,6 @@
 
-• Added a counter for how many stations are currently being monitored
-• Added a theme selector with 20 color schemes for the database view 
-• Minor UI corrections 
+• The theme button in the database window now toggles open/close themes
+• Grouped theme color options in the database for better clarity
+• Station monitor now refreshes UI to solve a rare rendering bug 
 
 
