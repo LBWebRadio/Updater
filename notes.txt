@@ -1,6 +1,8 @@
-
-• The theme button in the database window now toggles open/close themes
-• Grouped theme color options in the database for better clarity
-• Station monitor now refreshes UI to solve a rare rendering bug 
-
+• Added the ability to export selected favorites
+• Updated export manager to version 1.1 with file modification warnings
+• Current station text in favorites will no longer be cleared when closing the database
+• Exporting playlist function now uses URL textbox as fallback if favorite is not visible
+• URL textbox text will not be selected when the player gets focus
+• Improved text alignment in station monitoring
+• Metadata fetching now starts immediately on startup and when adding stations
 
