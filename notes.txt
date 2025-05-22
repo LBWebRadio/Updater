@@ -1,12 +1,4 @@
-• Advanced radio browser is now available for registered users
-• Simple radio browser now connects to API only when search is made
-• Reorganized simple radio browser controls for better usability
-• Settings panel will close when opening other tools (Soulseek, Database, etc.)
-• Advanced radio browser will close expanded player and temporarily disable Browser button
-• Languages, tags and countries are now cached locally for 72 hours (160kb)
-• Volume adjustment with mousewheel changed to ±2 instead of 3 for finer control
-• Added ability to parse and play playlist URLs directly
-• Added 5 darker themes for Database and Advanced search datagrids
-• Removed unsupported formats from advanced search results
-• Added export buttons in database import and favorites deletion dialogues
+• Station monitoring will stop if more than 12 hours of user inactivity
+• Small changes and improvements to SLSK Download Manager
+• Made the connection logic for advanced radio browser API more robust
 
