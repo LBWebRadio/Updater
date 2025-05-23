@@ -1,8 +1,5 @@
 • Station monitoring will stop if more than 12 hours of user inactivity
 • Small changes and improvements to SLSK Download Manager
 • Made the connection logic for advanced radio browser API more robust
-• 
-••• PLEASE NOTE THAT THERE IS A BUG IF YOU SEARCH AND THERE IS NO RESULT
-  FROM THE RADIO BROWSER AND IT SAYS NOT CONNECTED. THIS IS A BUG AND 
-  WILL BE FIXED SOON • • •  
+ 
 
