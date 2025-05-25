@@ -1,5 +1,8 @@
-• Station monitoring will stop if more than 12 hours of user inactivity
-• Small changes and improvements to SLSK Download Manager
-• Made the connection logic for advanced radio browser API more robust
- 
+• User settings can now be imported and exported
+• Added export buttons before deleting selected and reset all operations in the database
+• Choosing cancel in the reset all stats dialogue now exits silently
+• Adding/removing a favorite startup station has been reworked to be more intuitive
+• Using "Delete Favorites" will transfer all your favorites' playtime and data usage to non-favorites
+• Themes now also apply to edit favorites, export selected favorites, and startup station in settings
+• The currently selected alternating rows theme is now indicated with a checkmark
 
