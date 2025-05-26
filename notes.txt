@@ -6,3 +6,6 @@
 • Themes now also apply to edit favorites, export selected favorites, and startup station in settings
 • The currently selected alternating rows theme is now indicated with a checkmark
 
+• Added a cancel button to the update notifification
+• Fixed the logic with playing a random station on startup
+
