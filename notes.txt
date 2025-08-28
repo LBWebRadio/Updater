@@ -1,6 +1,9 @@
-• Improved duplicate song detection - Now catches typos, different formatting, and artist/title order swaps while avoiding false positives for remixes and collaborations
-• Adding a station to favorites now updates the favorite status without requiring a station restart
-• Implemented a function for choosing "Top Favorites" that has priority in favorites
-• Added greeting messages for registered users when loading the player
-• Copying and saving scrolling song titles now works properly
+• Fixed cache file bug - Old files are now preserved if advanced radio browser update fails, preventing cache files from being left empty
+• Advanced radio browser cache files now update every 5 days instead of every 3 days
+• Added option to hide registered name from main form (found in Register form)
+• New song history feature - Last 200 songs are saved in the database with automatic cleanup when limit is reached
+• Added play timer to show how long a stream has been active
+• Advanced radio browser now displays background operations and server status for improved user experience
+• Added right-click context menu in database and advanced radio browser with options to copy song title, URL, save to file, and create playlists
+
 
