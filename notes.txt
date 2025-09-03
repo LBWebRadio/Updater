@@ -1,9 +1,20 @@
-• Fixed cache file bug - Old files are now preserved if advanced radio browser update fails, preventing cache files from being left empty
-• Advanced radio browser cache files now update every 5 days instead of every 3 days
-• Added option to hide registered name from main form (found in Register form)
-• New song history feature - Last 200 songs are saved in the database with automatic cleanup when limit is reached
-• Added play timer to show how long a stream has been active
-• Advanced radio browser now displays background operations and server status for improved user experience
-• Added right-click context menu in database and advanced radio browser with options to copy song title, URL, save to file, and create playlists
+• Station name whitespace is now automatically trimmed when adding or editing stations
+• Added drag & drop support for .lbrx (favorites export), .config (settings export), and theme files
+• Implemented stricter validity checks when importing .lbrx, .config, and theme files
+• Song history expanded from 200 to 300 titles with new search functionality
+• Fixed song history timestamp display issues - timestamps now show correctly regardless of location
+• Sleep timer can now be set to stop at a specific date and time
+• User message system enhanced with queue support - up to 4 messages displayed for 5 seconds each
+• User messages now shown when Live Beats performs automatic update checks
+• Automatic update check frequency changed from every 3 days to every 5 days
+• Advanced radio browser is now the default for registered users
+• Added context menu in advanced radio browser to copy station names
+• Database window buttons have improved alignment with other UI refinements
+• LB database button relocated to left panel, Open Playlist button moved to settings panel
+• Theme Designer now launches in a smaller, more compact window
+• Fixed Played Time display bug that caused time ticks to skip
+• Added new theme: LB Lilac
+• LB Dark is now the default theme for fresh installations
+
 
 
