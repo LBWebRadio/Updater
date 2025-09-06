@@ -1,20 +1,21 @@
-• Station name whitespace is now automatically trimmed when adding or editing stations
-• Added drag & drop support for .lbrx (favorites export), .config (settings export), and theme files
-• Implemented stricter validity checks when importing .lbrx, .config, and theme files
-• Song history expanded from 200 to 300 titles with new search functionality
-• Fixed song history timestamp display issues - timestamps now show correctly regardless of location
-• Sleep timer can now be set to stop at a specific date and time
-• User message system enhanced with queue support - up to 4 messages displayed for 5 seconds each
-• User messages now shown when Live Beats performs automatic update checks
-• Automatic update check frequency changed from every 3 days to every 5 days
-• Advanced radio browser is now the default for registered users
-• Added context menu in advanced radio browser to copy station names
-• Database window buttons have improved alignment with other UI refinements
-• LB database button relocated to left panel, Open Playlist button moved to settings panel
-• Theme Designer now launches in a smaller, more compact window
-• Fixed Played Time display bug that caused time ticks to skip
-• Added new theme: LB Lilac
-• LB Dark is now the default theme for fresh installations
+• Time Played timer is now very stable without any skipping or timing irregularities
+• Fixed scrolling issues for song titles, station names, and user messages
+• Added option to choose between playing from favorites or radio browser when station exists in both
+• Playing from radio browser allows sending votes to support stations
+• Fixed potential deadlock in stream reader disposal that could cause application freeze
+• Added timeout protection (2 seconds) for network stream cleanup operations
+• Improved stream disposal process with proper base stream closure
+• Enhanced user messages added for various operations throughout the application
+• Fixed thread safety issues when populating radio browser filter dropdowns
+• Resolved duplicate radio browser form initialization that caused API rate limiting
+• Enhanced stability of radio browser country, language, and tag loading
+• Fixed issue where adding station to favorites required restarting station to begin tracking
+• Station tracking now immediately switches from non-favorite to favorite mode when added
+• Imported favorite stations are now properly tracked without requiring application restart
+• Fixed settings panel unexpectedly opening when drag-and-drop importing favorites files
+• Settings panel now only closes after import if it was already open before operation
+• Removed focus rectangles from buttons when switching between applications
+
 
 
 
