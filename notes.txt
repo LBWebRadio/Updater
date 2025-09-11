@@ -1,20 +1,18 @@
-• Time Played timer is now very stable without any skipping or timing irregularities
-• Fixed scrolling issues for song titles, station names, and user messages
-• Added option to choose between playing from favorites or radio browser when station exists in both
-• Playing from radio browser allows sending votes to support stations
-• Fixed potential deadlock in stream reader disposal that could cause application freeze
-• Added timeout protection (2 seconds) for network stream cleanup operations
-• Improved stream disposal process with proper base stream closure
-• Enhanced user messages added for various operations throughout the application
-• Fixed thread safety issues when populating radio browser filter dropdowns
-• Resolved duplicate radio browser form initialization that caused API rate limiting
-• Enhanced stability of radio browser country, language, and tag loading
-• Fixed issue where adding station to favorites required restarting station to begin tracking
-• Station tracking now immediately switches from non-favorite to favorite mode when added
-• Imported favorite stations are now properly tracked without requiring application restart
-• Fixed settings panel unexpectedly opening when drag-and-drop importing favorites files
-• Settings panel now only closes after import if it was already open before operation
-• Removed focus rectangles from buttons when switching between applications
+• History management enhanced - clear all history or right-click individual entries to delete them
+• Song titles must remain stable for 5 seconds before being recorded to prevent metadata clutter
+• Top favorites now always stay at the top of the favorites list for instant access
+• Fixed user message functionality that would sometimes stop working
+• Player interface locked during station monitoring expansion to prevent accidental interruption
+• Improved playback stop and app shutdown operations - now faster and smoother
+• Enhanced stability with proper cleanup of all timers, audio streams, and system resources
+• Better memory handling - removed forced memory cleanup for improved overall performance
+• More reliable station switching with proper reset of favorites and scrolling states
+• Fixed bug where saving song info from LB Database history would set as current player title
+• Added option to disable greeting message on startup (available for registered users only)
+• Various database function improvements for enhanced system robustness
+• Song history now ignores duplicate entries from same station for 200 minutes
+• Fatal error handling improved - application now offers automatic restart option when errors occur
+
 
 
 
