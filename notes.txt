@@ -1,17 +1,10 @@
-• History management enhanced - clear all history or right-click individual entries to delete them
-• Song titles must remain stable for 5 seconds before being recorded to prevent metadata clutter
-• Top favorites now always stay at the top of the favorites list for instant access
-• Fixed user message functionality that would sometimes stop working
-• Player interface locked during station monitoring expansion to prevent accidental interruption
-• Improved playback stop and app shutdown operations - now faster and smoother
-• Enhanced stability with proper cleanup of all timers, audio streams, and system resources
-• Better memory handling - removed forced memory cleanup for improved overall performance
-• More reliable station switching with proper reset of favorites and scrolling states
-• Fixed bug where saving song info from LB Database history would set as current player title
-• Added option to disable greeting message on startup (available for registered users only)
-• Various database function improvements for enhanced system robustness
-• Song history now ignores duplicate entries from same station for 200 minutes
-• Fatal error handling improved - application now offers automatic restart option when errors occur
+• Homepage button no longer retains previous station URLs when new stations have no website
+• Volume settings now save only on application exit to reduce resource usage during playback
+• Radio Browser stations properly clear favorites selection unless the station is actually a favorite
+• About dialog is now non-modal allowing continued use of main player interface
+• Disabled buttons now bring focus instead of being completely unresponsive
+• Enhanced Radio Browser playback logic provides clearer user options for favorite stations
+
 
 
 
