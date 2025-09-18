@@ -1,9 +1,14 @@
-• Homepage button no longer retains previous station URLs when new stations have no website
-• Volume settings now save only on application exit to reduce resource usage during playback
-• Radio Browser stations properly clear favorites selection unless the station is actually a favorite
-• About dialog is now non-modal allowing continued use of main player interface
-• Disabled buttons now bring focus instead of being completely unresponsive
-• Enhanced Radio Browser playback logic provides clearer user options for favorite stations
+• Live Beats WRP now uses only database storage; user.config dependency eliminated
+• All preferences now persist between updates and sessions
+• Added integrated update downloader with automatic installer launch
+• Radio Browser operations are now smoother and more responsive
+• Timers are more accurate across the application
+• Fixed history display issues when clicking data usage
+• Fixed thread exception when closing Radio Browser quickly
+• Added LB icon to Station Options and Startup Options
+• Previous song titles no longer persist when switching stations
+• Enhanced thread exception handling with three user options
+• Improved network connection handling for better performance
 
 
 
