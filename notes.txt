@@ -1,14 +1,8 @@
-• Live Beats WRP now uses only database storage; user.config dependency eliminated
-• All preferences now persist between updates and sessions
-• Added integrated update downloader with automatic installer launch
-• Radio Browser operations are now smoother and more responsive
-• Timers are more accurate across the application
-• Fixed history display issues when clicking data usage
-• Fixed thread exception when closing Radio Browser quickly
-• Added LB icon to Station Options and Startup Options
-• Previous song titles no longer persist when switching stations
-• Enhanced thread exception handling with three user options
-• Improved network connection handling for better performance
+• Stations can now be restarted from play buttons in station monitor
+• Station monitoring metadata retrieval is now faster when expanding
+• Various code improvements for station monitoring functionality
+• Further improved connectivity and network handling
+• Fixed tooltip display issue for Time Played feature
 
 
 
