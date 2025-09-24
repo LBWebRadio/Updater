@@ -1,8 +1,12 @@
-• Stations can now be restarted from play buttons in station monitor
-• Station monitoring metadata retrieval is now faster when expanding
-• Various code improvements for station monitoring functionality
-• Further improved connectivity and network handling
-• Fixed tooltip display issue for Time Played feature
+• Added integrated search button for favorites dropdown functionality
+• Enhanced favorites management with seamless search integration  
+• Implemented thorough validation checks for favorites imports and URLs
+• Fixed multiple potential memory leak issues for better resource management
+• Updated random timing system for more efficient metadata check intervals
+• Implemented comprehensive resource cleanup architecture throughout application
+• Improved system resource handling with immediate cleanup when features disabled
+• Enhanced application stability and responsiveness during station monitoring
+• Optimized memory usage preventing unnecessary consumption on application close
 
 
 
