@@ -1,12 +1,7 @@
-• Added integrated search button for favorites dropdown functionality
-• Enhanced favorites management with seamless search integration  
-• Implemented thorough validation checks for favorites imports and URLs
-• Fixed multiple potential memory leak issues for better resource management
-• Updated random timing system for more efficient metadata check intervals
-• Implemented comprehensive resource cleanup architecture throughout application
-• Improved system resource handling with immediate cleanup when features disabled
-• Enhanced application stability and responsiveness during station monitoring
-• Optimized memory usage preventing unnecessary consumption on application close
+• Enhanced random station experience with appropriate user message display functionality
+• Implemented proper user message reset system preventing text lingering issues
+• Updated WebView2 to latest stable version for improved web compatibility and security
+• Updated Newtonsoft.Json to latest version for enhanced JSON processing performance
 
 
 
