@@ -1,7 +1,6 @@
-• Enhanced random station experience with appropriate user message display functionality
-• Implemented proper user message reset system preventing text lingering issues
-• Updated WebView2 to latest stable version for improved web compatibility and security
-• Updated Newtonsoft.Json to latest version for enhanced JSON processing performance
+• Optimized server caching for faster radio station searches and reduced file system access
+• Removed "Settings" from Import/Export favorites tooltip as Live Beats now uses database exclusively for all settings
+• Implemented automatic database optimization running every 7 days for sustained performance and responsiveness
 
 
 
