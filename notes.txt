@@ -1,6 +1,10 @@
-• Optimized server caching for faster radio station searches and reduced file system access
-• Removed "Settings" from Import/Export favorites tooltip as Live Beats now uses database exclusively for all settings
-• Implemented automatic database optimization running every 7 days for sustained performance and responsiveness
+• Added "Copy Station Name" option to context menu in both Station Overview and History views
+• Extended auto-selection feature to include non-favorite stations in database management
+• Enhanced search functionality with real-time filtering in database view
+• Improved database management with security patches and performance optimizations
+• Changed "Pin Window" to "Pin Player" for better interface clarity
+• Added clickable copyright label with email copy functionality and tooltip
+• Made various improvements to registration system security and reliability
 
 
 
