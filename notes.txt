@@ -7,7 +7,8 @@
 • Improved playback stability and error handling with better thread safety for UI updates
 • Minor performance improvements to station label animations in station monitoring
 • Optimized metadata fetching
-• Added automatic stop after being muted for 30 minutes while playing; user is prompted to resume or stop
+• Added automatic stop after being muted for 30 minutes while playing and the user is prompted to resume or stop
+
 
 
 
