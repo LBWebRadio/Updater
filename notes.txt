@@ -1,10 +1,14 @@
-• Added "Copy Station Name" option to context menu in both Station Overview and History views
-• Extended auto-selection feature to include non-favorite stations in database management
-• Enhanced search functionality with real-time filtering in database view
-• Improved database management with security patches and performance optimizations
-• Changed "Pin Window" to "Pin Player" for better interface clarity
-• Added clickable copyright label with email copy functionality and tooltip
-• Made various improvements to registration system security and reliability
+• Added debug commands to view detailed database and application information (file size, maintenance status, health metrics, table statistics)
+• Added command to clear error messages; errors are now saved for later troubleshooting
+• Favorite station rename improvements: added protection against reserved system command names
+• Invalid or duplicate station names now prompt retry instead of restarting the process
+• Improved error messages for better clarity and consistency
+• Station names now display correctly for Radio Browser M3U playlists
+• Improved playback stability and error handling with better thread safety for UI updates
+• Minor performance improvements to station label animations in station monitoring
+• Optimized metadata fetching
+• Added automatic stop after being muted for 30 minutes while playing; user is prompted to resume or stop
+
 
 
 
