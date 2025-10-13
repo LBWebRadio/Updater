@@ -1,5 +1,5 @@
 • Added debug commands to view detailed database and application information (file size, maintenance status, health metrics, table statistics)
-• Added command to clear error messages; errors are now saved for later troubleshooting
+• Added command to clear error messages. Errors are now saved for later troubleshooting
 • Favorite station rename improvements: added protection against reserved system command names
 • Invalid or duplicate station names now prompt retry instead of restarting the process
 • Improved error messages for better clarity and consistency
@@ -8,6 +8,7 @@
 • Minor performance improvements to station label animations in station monitoring
 • Optimized metadata fetching
 • Added automatic stop after being muted for 30 minutes while playing and the user is prompted to resume or stop
+
 
 
 
