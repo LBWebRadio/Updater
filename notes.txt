@@ -1,13 +1,16 @@
-• Added debug commands to view detailed database and application information (file size, maintenance status, health metrics, table statistics)
-• Added command to clear error messages. Errors are now saved for later troubleshooting
-• Favorite station rename improvements: added protection against reserved system command names
-• Invalid or duplicate station names now prompt retry instead of restarting the process
-• Improved error messages for better clarity and consistency
-• Station names now display correctly for Radio Browser M3U playlists
-• Improved playback stability and error handling with better thread safety for UI updates
-• Minor performance improvements to station label animations in station monitoring
-• Optimized metadata fetching
-• Added automatic stop after being muted for 30 minutes while playing and the user is prompted to resume or stop
+• Added date range selection for the LB database to view listening statistics for custom periods
+• Added right-click option to add song titles to SLSK Manager from history view in the LB Database
+• Added button in database to export all song title history to .txt file
+• Playing while muted for 30 minutes now shows a less intrusive message instead of a messagebox
+• Added refresh & clear errors button to the debug info window
+• Added friendly user message when attempting to play at 0% volume
+• HTTP & HTTPS icons are now slightly smaller for better UI fit
+• General code cleanup and refinement for improved maintainability
+• Improved code consistency for form animations
+• Fixed issue where error logging system could crash when handling missing information
+• Fixed Copy and Save Song buttons not appearing when reconnecting to the same station
+• Enhanced thread safety in button visibility updates to prevent potential crashes
+• Label scrolling reworked: automatically pauses on hover and resumes when mouse leaves
 
 
 
