@@ -1,16 +1,10 @@
-• Added date range selection for the LB database to view listening statistics for custom periods
-• Added right-click option to add song titles to SLSK Manager from history view in the LB Database
-• Added button in database to export all song title history to .txt file
-• Playing while muted for 30 minutes now shows a less intrusive message instead of a messagebox
-• Added refresh & clear errors button to the debug info window
-• Added friendly user message when attempting to play at 0% volume
-• HTTP & HTTPS icons are now slightly smaller for better UI fit
-• General code cleanup and refinement for improved maintainability
-• Improved code consistency for form animations
-• Fixed issue where error logging system could crash when handling missing information
-• Fixed Copy and Save Song buttons not appearing when reconnecting to the same station
-• Enhanced thread safety in button visibility updates to prevent potential crashes
-• Label scrolling reworked: automatically pauses on hover and resumes when mouse leaves
+• Added button to play a random station from search results in the favorites window
+• Favorites search window now displays the total number of stations in the search results
+• Added checkbox to keep favorites search window open after selecting a station (setting is saved)
+• Favorites search window now pre-selects the currently playing favorite station when opened
+• 'Now Playing' text now scrolls automatically when displaying very long messages
+• Fixed metadata retry function to handle failures more gracefully without hammering the server
+• Fixed 'Data Used' label to correctly display usage when defaulting to 160kbps bitrate
 
 
 
