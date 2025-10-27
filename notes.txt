@@ -1,25 +1,11 @@
-• Play random station button in favorites search now avoids selecting the same station consecutively
-• Improved data usage tracking stability and performance
-• Cached regex pattern for bitrate parsing (eliminates wasteful object recreation)
-• Improved database checkpoint system with automatic retry logic
-• Better handling of database locks and busy states
-• Fixed bug where importing a database could cause corruption if background processes were active
-• Database export now includes all recent changes even if they haven't been saved yet
-• Better error messages when database operations can't complete
-• Manual and automatic database maintenance now more reliable
-• Cleaner database state before optimization runs
-• Smoother shutdown process with improved database cleanup
-• All changes are properly saved with retry before the app closes
-• Reduced risk of data loss on exit
-• More clear information messages to what happens when importing/exporting the LB database
-• Live Beats database creation date will be preserved when clearing error logs
-• Fixed crash when closing Advanced Radio Browser if main application was already shutting down
-• Fixed rare null reference crash in background task
-• Fixed an issue where being muted and unmute wouldn't reset the auto-stop protection
-• Database info now displays monitored station URLs with their stream links
-• Improved station website button - now filters out invalid and placeholder URLs
-• Enhanced URL validation with better protection against malformed links
-• "Time Played" is changed to "Streaming"
+• Error handler now offers Restart, View Debug Info, Continue or Exit options
+• Save Debug Info and Clear Error Log buttons disabled while dialogs are open
+• Fixed duplicate loop in shutdown process
+• Added network connection loss protection with graceful streaming shutdown
+• Random station selection now avoids both currently playing and previously selected station
+• Enhanced song title filtering to exclude metadata error messages
+• Added option to delete records older than 12 months
+• Updated WebView2 to latest version
 
 
 
