@@ -1,11 +1,6 @@
-• Error handler now offers Restart, View Debug Info, Continue or Exit options
-• Save Debug Info and Clear Error Log buttons disabled while dialogs are open
-• Fixed duplicate loop in shutdown process
-• Added network connection loss protection with graceful streaming shutdown
-• Random station selection now avoids both currently playing and previously selected station
-• Enhanced song title filtering to exclude metadata error messages
-• Added option to delete records older than 12 months
-• Updated WebView2 to latest version
+• Brand new update notification form with improved visibility and clarity
+• Fixed bug when retrying failed update downloads for more reliable updates
+• Added create playlist right-click context menu in LB database for easier playlist management
 
 
 
