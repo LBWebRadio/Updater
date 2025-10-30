@@ -1,6 +1,6 @@
-• Brand new update notification form with improved visibility and clarity
-• Fixed bug when retrying failed update downloads for more reliable updates
-• Added create playlist right-click context menu in LB database for easier playlist management
+• Added custom icons for LB favorites export files (.lbrx) and LB license signature files (.sig)
+• Added smooth fade in effect for the update notification window
+
 
 
 
