@@ -1,5 +1,7 @@
-• Added custom icons for LB favorites export files (.lbrx) and LB license signature files (.sig)
+• Added custom icons for LB favorites export files (.lbrx), LB license signature files (.sig) and theme files (.lbtm)
 • Added smooth fade in effect for the update notification window
+• New icon for radio station websites
+
 
 
 
