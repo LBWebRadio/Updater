@@ -1,17 +1,10 @@
-- Bitrate Extraction
-  Now attempts to extract bitrate information when streaming servers don't provide it for MP3 streams.
+- New Knob Volume Control
+  Complete redesign of the volume control with a professional knob-styled interface.
+- Rotary Interaction
+  Click, drag or scroll the knob to adjust volume with smooth natural rotation like turning a physical dial.
+- Theme Integration and import/export itegration.
+ 
 
-- Lyrics Search
-  Added button to search for lyrics of the currently playing track.
-
-- Server Location Display
-  Implemented country flag display showing the geographic location of the current stream server.
-
-- Improved Volume Slider
-  Enhanced behaviour when clicking or scrolling to adjust volume for smoother and more precise control.
-
-- Code Optimization
-  General performance improvements throughout the application.
 
 
 
