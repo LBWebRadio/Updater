@@ -1,9 +1,12 @@
-- New Knob Volume Control
-  Complete redesign of the volume control with a professional knob-styled interface.
-- Rotary Interaction
-  Click, drag or scroll the knob to adjust volume with smooth natural rotation like turning a physical dial.
-- Theme Integration and import/export itegration.
+New Stream Recorder
+-Capture and save radio broadcasts with format detection and optional duration limits up to 24 hours.
+Gradient Backgrounds
+-Beautiful gradient colors applied to all forms with automatic theme integration and seamless panel transparency.
+Country Flag Fix
+-Resolved bug related to country flag display ensuring accurate geographic information for all streams.
+
  
+
 
 
 
