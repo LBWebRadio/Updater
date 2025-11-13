@@ -1,11 +1,11 @@
-New Stream Recorder
--Capture and save radio broadcasts with format detection and optional duration limits up to 24 hours.
-Gradient Backgrounds
--Beautiful gradient colors applied to all forms with automatic theme integration and seamless panel transparency.
-Country Flag Fix
--Resolved bug related to country flag display ensuring accurate geographic information for all streams.
-
+Task Manager Display Name
+-Application now shows the proper name in Task Manager instead of generic "WebRadio" for better process identification.
+Button Click Animations
+-Added smooth click animations to image buttons providing visual feedback and enhanced user interaction experience.
+Glass Effect Buttons
+-Implemented modern glass effect styling for buttons without images creating a cohesive and polished interface design.
  
+
 
 
 
