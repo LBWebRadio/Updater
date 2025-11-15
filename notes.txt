@@ -1,17 +1,8 @@
-Application Stability Improvements
--Enhanced overall application stability with fixes for intermittent scrolling issues ensuring smoother and more reliable performance.
-
-Code Quality Enhancement
--Improved code quality and reliability through optimization and refactoring for better maintainability and reduced errors.
-
-Custom Controls Optimization
--Optimized performance of custom controls including buttons, gradients, and volume knobs for faster response times and improved efficiency.
-
-Rendering Efficiency
--Enhanced rendering engine efficiency delivering smoother animations and significantly reduced stuttering during UI updates.
-
-Memory Management
--Improved memory management system to reduce resource usage and prevent memory leaks for better long-term performance.
-
-Multi-Element Performance
--Enhanced performance when using multiple UI elements simultaneously ensuring consistent responsiveness across the interface.
+Hover Animations
+-Added smooth animations when hovering over buttons for better visual feedback and enhanced interactivity.
+Recording Form Improvements
+-Recording form now restores and brings to front if already open, preventing duplicate windows.
+WebView Update
+-Updated WebView component to the latest version for improved compatibility, security, and performance.
+Database Theme Fix
+-Fixed bug where alternating row theme couldn't be applied in LB Database, ensuring proper table styling.
