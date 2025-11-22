@@ -1,8 +1,4 @@
-Hover Animations
--Added smooth animations when hovering over buttons for better visual feedback and enhanced interactivity.
-Recording Form Improvements
--Recording form now restores and brings to front if already open, preventing duplicate windows.
-WebView Update
--Updated WebView component to the latest version for improved compatibility, security, and performance.
-Database Theme Fix
--Fixed bug where alternating row theme couldn't be applied in LB Database, ensuring proper table styling.
+Simplified UI Mode
+-Added a new setting to show a simple interface with fewer buttons for a cleaner, distraction-free experience.
+Scheduled Recording
+-Added ability to schedule recordings to start automatically at a specific date and time, even when away from your computer.
