@@ -1,4 +1,2 @@
-Simplified UI Mode
--Added a new setting to show a simple interface with fewer buttons for a cleaner, distraction-free experience.
-Scheduled Recording
--Added ability to schedule recordings to start automatically at a specific date and time, even when away from your computer.
+Fixed a bug related to fetching country flags which could cause the app to crash.
+
