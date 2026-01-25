@@ -1,3 +1,5 @@
-Improved reliability for users who open the app infrequently. 
-Enhanced network handling to prevent interruptions when switching between radio stations.
+• Optimized startup sequence for better performance
+• Improved license validation stability
+• Enhanced credential handling for long-term users
+
 
