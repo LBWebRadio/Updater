@@ -1,5 +1,5 @@
-• Optimized startup sequence for better performance
-• Improved license validation stability
-• Enhanced credential handling for long-term users
-
+- Migrated to new registration server (required update)
+- NAudio and WebView2 updated to latest versions
+⚠️ IMPORTANT: This update is required. The old registration server will be shut down on July 20, 2026. 
+Please update to continue using the app after July 20, 2026.
 
