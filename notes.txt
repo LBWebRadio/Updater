@@ -1,5 +1,5 @@
-- Migrated to new registration server (required update)
-- NAudio and WebView2 updated to latest versions
-⚠️ IMPORTANT: This update is required. The old registration server will be shut down on July 20, 2026. 
-Please update to continue using the app after July 20, 2026.
+- Fast station switching. Stop now instantly kills connecting/streaming instead of waiting for timeout
+- LB Recorder auto selects the currently playing station when opened
+- Updated dialogs for a more uniform app experience
+- Fixed a licensing validation edge case that could return an incorrect result
 
