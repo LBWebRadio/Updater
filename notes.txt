@@ -1,5 +1,7 @@
-- Fast station switching. Stop now instantly kills connecting/streaming instead of waiting for timeout
-- LB Recorder auto selects the currently playing station when opened
-- Updated dialogs for a more uniform app experience
-- Fixed a licensing validation edge case that could return an incorrect result
-
+- Recorder now logs server location
+- Prompts to save metadata log when recording stops if songs were captured
+- Play button now offers to open Radio Browser when no stations are available
+- Fixed double play count when clicking a station from the monitor panel
+- Fixed edge case where rapid clicking could cause multiple streams or a crash
+- Fixed startup crash when enabling statistics on a fresh install
+- Removed unused code and general cleanup
