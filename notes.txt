@@ -1,8 +1,5 @@
-- Added explanation of metadata timestamps in the recording logs
-- Fixed FadeInForm not safely handling form being closed during fade
-- Fixed FadeInForm minor animation and error handling issues
-- Fixed minor potential thread safety issues in mute timer and message display
-- Improved title and station scrolling to use less resources
-- Stricter filters for URLs entered and station website links
-- Optimized error log cleanup query to only run when necessary
-- Fixed file type icons not registering for .lbrx, .lbtm and .sig files
+- Live listener stats now shown automatically when playing a station
+- Hovering over the station name shows current listeners if supported by the server
+- Listener count refreshes every ~49 seconds for stations that support stats
+- Stations with no stats endpoint are detected and no further fetch attempts are made
+- Fixed thread exception in Theme Designer help dialog
